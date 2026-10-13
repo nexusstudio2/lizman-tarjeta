@@ -15,7 +15,7 @@ export const negocio = {
   cp: '31416',
   mapa: 'https://www.google.com/maps/search/?api=1&query=Calle+Jorge+M.+Cardenas+Ampliacion+Universitaria+31416+Chihuahua',
   pagos: 'Aceptamos tarjeta y dólares.',
-  // POR CONFIRMAR: entregas a domicilio
+  // POR CONFIRMAR: entregas a domicili
 }
 
 export const categorias = [
